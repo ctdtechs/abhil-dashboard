@@ -1,4 +1,4 @@
-# abhil-dashboard
+# ABHIL Dasboard
 
 This project consists of:
 - **Flask Backend**: API to fetch file details from MySQL.
@@ -44,7 +44,3 @@ This project consists of:
 ### ✅ Tech Stack
 - **Backend:** Flask, MySQL
 - **Frontend:** React.js, Ant Design, Axios
-
----
-
-💡 **Need Help?** Feel free to reach out! 🚀
