@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+*::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+* {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.ant-table-content,
+.ant-table-thead > tr > th,
+.ant-table-tbody > tr > td {
+  border: none !important;
+  border-bottom: 1px solid #f0f0f0 !important;
+  box-shadow: none !important;
+}
+
+.ant-table-thead > tr > th{
+  background-color: #f5f5f5 !important;
+}
+
+.ant-drawer-close{
+  display: none !important;
+}
